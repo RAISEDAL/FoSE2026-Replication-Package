@@ -1,0 +1,3 @@
+We are trying to investigate the gaps between academic research and industry practices. 
+Analyze each row from the document and identify the key gaps between these two worlds.
+The analysis should only focus on the provided data only.

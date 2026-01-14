@@ -1,0 +1,1 @@
+We are trying to investigate if the community is concerned about the impact or practical relevance of software engineering research. Analyze each row from the document and provide statistical evidence of concerns expressed by the respondents.

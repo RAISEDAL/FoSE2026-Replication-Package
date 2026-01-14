@@ -1,0 +1,185 @@
+# Academic Research vs Industry Practice: Key Gaps in Software Engineering
+
+## Overview
+This analysis identifies critical gaps between academic research and industry practice in software engineering, based on survey responses from the SE research community.
+
+---
+
+## 1. Relevance and Practical Impact Gap
+
+### Core Issue
+Research is frequently disconnected from real-world industrial needs and has minimal practical impact.
+
+### Evidence from Responses
+- **192588908**: "SE conferences and workshops are not including real experiences or real needs...they are not dealing with reality, with real problems in industrial settings, or carried out by practitioners"
+- **194004592**: "Research is often irrelevant for practice"
+- **195853386**: "Most of the published SE research is irrelevant for practitioners...We improved x% over a random and toy baseline is not something practitioners care about"
+- **195868073**: "A decently high percentage of the published work is completely detached from practitioner reality"
+- **195953547**: "There is a major disjoint between what is researched and what is useful to be used in practice"
+- **196091544**: "Too far from practice"
+- **196579032**: "Lack of practical impacts, especially on industry practices"
+
+---
+
+## 2. Communication and Engagement Breakdown
+
+### Core Issue
+Researchers and practitioners operate in silos with minimal meaningful interaction.
+
+### Evidence from Responses
+- **192120549**: "The community needs to bridge the gap between them and practitioners"
+- **192597855**: "Practitioners and researchers do not listen to each other"
+- **196009614**: "Communication to the outside world" (identified as not working well)
+- **196071446**: "We still have very little meaningful industry presence at most SE conferences. It feels like we talk about industry all the time, but actual practitioners rarely attend"
+- **196181126**: "Connecting research and practice. We both need to participate more into industry forums and to include them in ours academic ones. It is not about invitation, but actually a deeper synergy"
+
+---
+
+## 3. Innovation Direction Gap
+
+### Core Issue
+Industry is often ahead of academia; research follows trends rather than leading them.
+
+### Evidence from Responses
+- **192305887**: "It seems that industry is often ahead of the research community, mostly due to bigger resources (personnel)"
+- **192723628**: "Influencing the mainstream of software engineering with our research, the hot topics are set by practitioners outside of the research community"
+- **195756655**: "Way out of hand from industry. Codex/copilot can eliminate the novelty of more than half of the paper's idea"
+- **196022630**: "Long-term disconnect with industrial practice, and that practice has tended to out-pace the research community"
+- **196248189**: "Most ideas that influence our field are not coming from SE research. SE research is mostly a follower, not an innovator (e.g., agile, micro-services, devops, etc.)"
+
+---
+
+## 4. Incentive Misalignment
+
+### Core Issue
+Academia prioritizes publication metrics while industry focuses on software delivery and practical outcomes.
+
+### Evidence from Responses
+- **192308195**: "Too many conferences and too elitist. Pressure for publishing. Gap between research and practice"
+- **196070836**: "The 'publish or perish' culture places heavy emphasis on publication counts and conference rankings rather than sustained, high-quality contributions"
+- **196573064**: "The academia has a focus on publishing and the industry in delivering software. So, most studies demand too much to be done, while the industry (mainly small-mid software companies) does not have this time and effort to be spent"
+- **195984732**: "Overemphasis on novelty at the expense of rigor"
+- **196380886**: "Excessive focus on 'novelty' that encourages publishing very low-impact work...and aversion to work related to engineering/scalability/applicability that makes more real-world impact"
+
+---
+
+## 5. Researcher Experience Gap
+
+### Core Issue
+Many SE researchers lack industry experience, limiting their ability to identify relevant problems.
+
+### Evidence from Responses
+- **195910267**: "Most SE researchers these days have zero industry experience to begin with, so it's hard for them to choose research that is both useful to industry and interesting to academia"
+- **195868073**: "A decently high number of SE academics have no idea what is actually done in practice"
+- **196078058**: "Many (if not most) researchers appear to pay little attention to the actual engineering relevance of their work"
+
+---
+
+## 6. Evaluation and Validation Gap
+
+### Core Issue
+Research often uses toy examples, outdated datasets, or unrealistic scenarios rather than industrial-scale problems.
+
+### Evidence from Responses
+- **195789338**: "Many young reviewers even require that every work be evaluated by empirical study. This is crazy because SE is not a natural science and every experiment is not repeatable"
+- **195832864**: "Analysis of practical implications, i.e., if it works in practice or not" (identified as not working well)
+- **196368894**: "Too many papers published evaluate the ideas they put forward on toy case studies rather than scale-realistic case studies coming from genuine industrial needs"
+- **196391274**: "A large portion of work in ML4Code, defect prediction, and program analysis continues to overfit small or outdated datasets (such as Defects4J), which limits the real-world generalizability"
+- **196579032**: "Overlooking the challenges that industry might be interested in (e.g., scalability, load balancing)"
+
+---
+
+## 7. Technology Transfer Gap
+
+### Core Issue
+Limited mechanisms and emphasis on transferring research results into practice.
+
+### Evidence from Responses
+- **192676762**: "Lack of influence on practice; few fundamental advances"
+- **193757741**: "Tech transfer and building partnerships between industry and research...there's not enough emphasis on relevance to real practice for SE research intended to be practical"
+- **195771332**: "Not enough focused on translating results to industry and impact"
+- **195999111**: "Transfer from research to industry; we often do not manage to transfer the findings into practice and achieve more impact"
+- **196248869**: "Transfer to industry" (identified as not working well)
+- **196290621**: "Convincing industry that the research is relevant for practitioners"
+
+---
+
+## 8. Focus and Values Gap
+
+### Core Issue
+Academia values theoretical novelty while industry needs practical, scalable, and maintainable solutions.
+
+### Evidence from Responses
+- **195860877**: "The ramp up of Rigour is too slow, leading to research that looks too similar to industry: if it works, it's valid. We are not competing with industry, we are doing something different than them, and we often forget this"
+- **196071861**: "Those that are intrinsic of SE, such as software architecture, software quality, design patterns, object orientation, new programming languages, programming in general, DevOps or strategies used in the industry are considered so naive for the academia"
+- **196098713**: "Often the focus is higher on the solution space (in defense of novelty) as opposed to the problem"
+- **196208899**: "Too much emphasis on observing actual software engineers rather than on producing new contributions that could help them in their work"
+
+---
+
+## 9. Participation and Representation Gap
+
+### Core Issue
+Conferences lack meaningful industry participation; practitioners rarely attend or present.
+
+### Evidence from Responses
+- **196010414**: "Working in silo"
+- **196065742**: "Lack of industry participants in many conferences (with exception of XP, for example)"
+- **196071446**: "We still have very little meaningful industry presence at most SE conferences"
+- **196073315**: "Conferences are no longer places for networking and brainstorming new ideas; they are just places for dumping results and passively attending to talks"
+
+---
+
+## 10. Resource and Access Gap
+
+### Core Issue
+Industry has computational and financial resources that create barriers for academic research, particularly with expensive technologies like LLMs.
+
+### Evidence from Responses
+- **195775809**: "Many recent SE studies rely on LLMs, but their high computational cost makes it difficult for researchers without industry collaboration to run large-scale experiments. As a result, companies with extensive GPU resources gain disproportionate influence over the direction and reproducibility of SE research"
+- **192305887**: "Industry is often ahead of the research community, mostly due to bigger resources (personnel)"
+
+---
+
+## 11. Knowledge Dissemination Gap
+
+### Core Issue
+Research findings remain confined to academic circles and don't reach practitioners.
+
+### Evidence from Responses
+- **192205474**: "The circulation of knowledge beyond conferences remains limited. Talks and papers rarely reach practitioners or even researchers who couldn't attend"
+- **195756280**: "We lack the ability to coordinate ourselves around relevant phenomena/outcomes of interest for practitioners to truly build helpful bodies of evidence"
+- **196082256**: "A little weak promotion of good works to broader communities"
+- **196183707**: "The dissemination to the research to society"
+
+---
+
+## 12. Research Depth and Continuity Gap
+
+### Core Issue
+Fragmented, short-term research projects prevent building comprehensive knowledge relevant to industry.
+
+### Evidence from Responses
+- **192718035**: "Overly specialized research: They work for specific dataset under strong assumptions about preconditions before applying the work. Each research is valuable, but they are scattered, isolated and hard to integrate. The gap between research and practice is getting larger and larger"
+- **195289566**: "Software engineering is treated as a supportive technology for frontier technologies like AI, quantum, photonics or cybersecurity, not as the enabling science that makes these fields possible. This leads to fragmented research agendas, short-term projects"
+- **196070836**: "Many research projects are short-term, driven by grants that last 2–3 years, which limits continuity"
+- **196144420**: "There is maybe too much focus on publishing papers, and moving to the next hot topic, instead of ensuring reproducibility, building platforms to facilitate future research"
+
+---
+
+## Summary Statistics
+
+### Most Frequently Mentioned Gaps
+1. **Relevance/Impact**: Mentioned in 15+ responses
+2. **Communication breakdown**: Mentioned in 8+ responses
+3. **Technology transfer**: Mentioned in 7+ responses
+4. **Innovation direction**: Mentioned in 6+ responses
+5. **Incentive misalignment**: Mentioned in 6+ responses
+
+### Key Themes
+- Research is often **detached from reality** and industrial needs
+- **Practitioners and researchers operate in separate worlds** with minimal interaction
+- **Industry leads innovation** while academia follows
+- **Publication pressure** drives quantity over quality and practical relevance
+- **Evaluation methods** use unrealistic scenarios
+- **Knowledge transfer mechanisms** are weak or non-existent

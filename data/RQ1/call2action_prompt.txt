@@ -1,0 +1,4 @@
+What should we do differently to enhance the impact or practical relevance of software engineering research?
+How can we bridge the gaps between academia and industry?
+Analyze each row from the document and identify the unique ways suggested by the respondents.
+The analysis should be restricted to the document only.

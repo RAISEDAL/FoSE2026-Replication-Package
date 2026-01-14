@@ -1,0 +1,226 @@
+192065107:conferences, attend, person, delight
+192082119:community, collaborate, opportunities, events, open, lots, vibrant
+192094513:studies, empirical, lackings, despite, say
+192101946:se, research, community, experimentation, peer, review, rigorous, quality, strong, robust
+192109802:replication, sharing, packages, expectations, data, increasing
+192114934:venues, welcoming, beginners, community, researchers, kindness, environment, rigorous, uniting, new
+192120549:software, engineering, diverse, community, research, output, formation
+192134556:conferences, community, social, researchers, welcoming, introspective, generally, frequently, individual, healthy
+192143242:mentoring, researchers, community, symposiums, culture, research, workshops, artifact, se, career
+192144834:conferences, publish, audiences, papers, community, se, deadlines, tracks, domains, authors
+192150199:experimentation, research, things, people, new, trying, lot
+192154506:willingness, community, improve
+192160759:collegial, overall
+192161434:community, discuss, open, good, general
+192161829:reviewers, research, review, peer, reject, methodologically, qualitative, newcomers, study, prestigious
+192164439:seminars, gatherings, researchers, research, workshops, conferences, meet, discuss, share, smaller
+192178725:aspects, topics, study, human, interesting
+192201982:problem, domain, statement, aligning, lives, day, today
+192205474:collaborations, industry, openness, research, initiatives, methodologies, modernize, emerging, energy, productive
+192249436:ideas, conferences, research, discussing, closed, people, person, help, acting, offer
+192250097:industry, welcoming, community, research, field, love, impact
+192288951:
+192295956:ideas, events, community, engineering, participation, organized, software, experience, icses, new
+192305887:research, agenda, ideas, embraced, new, quickly, date, keeps
+192308195:meetings, collaborations, community, colleagues, research, topics, trending, opportunity, start, know
+192311611:welcoming, acceptance, community, papers, social, professional, difficult, making, recently, aspect
+192321645:research, review, software, engineering, novelty, process, paper, criteria, conferences, significance
+192349636:welcoming, covid, friendly, conferences, attended, phd, candidate, feel, people, pre
+192405469:networking, conference
+192475387:reviews, critiques, researchers, encouraging, positive, community, quality, influential, supportive, zimmermann
+192495535:work
+192504801:dont, know
+192587847:schedules, journals, conference, works, established, fixed
+192587927:icse, collaborations, collaboration, networking, conference, organization, discussions, colleagues, promising, initiatives
+192588908:ai, research, agentic, software, topics, security, evolving, domains, area, conerstone
+192590520:research, feedback, topic, events, community, getting, specialized, kind, virtually
+192590573:brainstorming, networking, ideas, research, enthusiasm, new
+192591458:people, topics, methods, new, open, great
+192593186:researcher, researchers, research, empirical, repositories, knowledge, engineering, software, repository, sector
+192593289:pcs, community, works, se, contributing, hoping, left, make, years, given
+192597855:researchers, software, problems, aware
+192604904:research, community, quality, venues, generally, continuing, variety, fields, produce, high
+192611857:conceptual, modeling, demo
+192614907:communication
+192626887:community, friendly, applied
+192647816:review, peer, quality, community, security, ai, compared, systems, ml, amazing
+192676762:coverage, breadth
+192718035:knowledge, technical, data, accumulating, changes, keeping, rapid
+192723628:software, engineering, tools, methods, experiments, environments, developing, techniques, evaluating, industry
+192731005:collaborate, partners, industry, active, try
+192732325:conferences, collaborations, conference, venues, formats, international, presence, hybrid, format, sustainable
+192757432:development, code
+192758693:research, se, importance, improvement, degree, rigour, growing, years, realisation, involved
+192783853:novelty, creativity, education
+192867648:discussions, topics, networking, societally, relevant
+193079935:
+193091655:communication, interaction, global
+193204305:community, diversity, friendly, open, cotrast, distant, geographical, research, welcomed, institutions
+193287505:icse, fse, topics, broad, community, broader, diverse, building, ground, start
+193429795:conferences, meeting, places, plentiful, good
+193659793:trends, technology, scholarly, outdated, emerging, community, research, fad, latest, managing
+193668599:welcoming, diverse, talks, topics, interests, variety, everybody, different, span
+193757741:reflective, research, feedback, se, community, self, review, increasingly, changes, new
+193795120:research, sdlc, testing, results, debugging, point, problems, verifiable, code, generation
+193992867:scientific, standards, community, committed, friendly, high, generally, problems, open, real
+194032046:women, computer, historically, science, areas, know, don
+194220564:collaborations, excellence, diversity, research, respect
+194263317:
+194327041:conferences, communities, workshops, initiatives, venues, incubators, publication, meeting, arises, places
+194594580:conferences, talks, icse, research, meet, colleagues, learn, person, present, aspects
+194672051:conferences, workshops, community, opportunities, inviting, world, year, open, new, people
+194711911:review, peer, processes
+194839373:software, engineering, classical
+195155159:listening, collaboratively, challenges, openness, society, new, improve, pursue, common, goal
+195195255:conferences, workshops, ieee, acm, organized
+195289566:conferences, icse, especially
+195352332:leadership, strong, community, active, lead, engaged
+195378456:feedback, constructive, conferences, papers, improve, paper, general, best, intent
+195394675:discussions, questions, improvement, workshops, pondering, early, subjects, interesting, empirical, methods
+195490977:conferences, engagement
+195756280:researchers, research, empirical, methods, effort, learning, continue, understanding, community, individuals
+195756655:ai, review, blind, caution, double, true, using, way
+195771332:ieee, welcoming, topics, tse, community, feedback, constructive, breadth, considered, turn
+195772359:review, quality, peer, conference, organization
+195772459:community, topics, reviews, diverse, small, detailed
+195774469:welcoming, positive, community
+195774571:community, welckmennew, comers, open, topics, new
+195775809:researchers, collaborate, research, datasets, google, tools, companies, innovations, microsoft, workflows
+195782001:conferences, schools, summer
+195789338:agile, programming, model, driven, approach, languages, combination
+195791296:friendliness, openness, apparent, surprising, need
+195811076:community, reviews, se, generally, constructive, relatively, fairly, security, comparison, equal
+195815106:reviews, quality, security, compared, fields, related, better, feel
+195816320:reviewing, naysayers, community, developing, se, constructive, friendly, research, improve, new
+195830557:publications, software, access, countries, asian, open, green, source
+195830783:conferences, travel, projects, organized, places, research, learn, interesting, beautiful
+195832864:positivity, openness, review, community
+195838608:mentoring, community, software, research, newcomers, opportunities, diverse, support, strengths, areas
+195844080:defect, software, experimental, detection, results, easy, reproduce, think
+195844142:conference, se, paper, submitting, community, response, open, nice, second, gives
+195844264:topics, techniques, llms, like, new, good, accepting
+195845170:testing, test, mutation, coverage, theory, techniques, builds
+195846519:review, reviewer, careful, nice, believe
+195849456:conferences, icse, research, venues, technical, track, colleagues, deadlines, paper, broad
+195851018:collegiality, peers, reunions, conference, visits, turning, small
+195852160:collaboration, meetings, collab, meet, conference, exchange, research, ideas, authoring, project
+195852355:review, reviewer, quality, ai, community, se, good, ok, compared
+195853105:application
+195853386:hostile, behavior, friendly, discourse, scientific, community, acceptable, observed, think, overall
+195854285:feedback, engaging, valueable
+195854517:researchers, opportunities, young, share
+195855714:relationships, personal, love, developed, amazing
+195856398:reviews, reproducible, quality, rigorous, artifacts, high
+195859579:conferences, welcoming, community, minorities, se, protected, safe, environment, new, phd
+195860086:standards, empirical, adequate, solid, community, adopted
+195860877:publish, cases, novel, work, use, fast, applicable, focusing
+195861298:reviewers, review, criteria, bars, rigorous, detailed, process, general
+195863074:community, amazing
+195863925:summits, conference, split, tier, time, date, year, good
+195868073:presentations, discussions, quality, amiable, generally, good
+195869297:research, software, improving, scientific, reproducibility, engineering, rebuttals, results, empirically, revisions
+195892827:ideas, openness, biology, atmosphere, fear, early, collegial, steal, away, heard
+195906537:topics, diversity
+195910267:ideas, active
+195938395:artifact, evaluation
+195942369:feedback, community, active, large
+195949566:community, researchers, engineering, conference, research, software, opportunities, meet, major, networking
+195956279:community, friendly
+195956629:se, discussing, research, boundaries, connections, great, pushing
+195962364:socio, technical, broad, discipline, coverage, fairly, recognition, lens
+195968983:conferences, researchers, communication, polite, respectful, major, good, thing
+195974971:approachable, research, easily, people, area
+195984732:newcomers, community, symposiums, workshops, engage, approaches, research, opportunities, ideas, new
+195992490:conferences, research, doing, applied, going, enjoy, hmmm, guess
+195998344:conferences, dialogue, field, main
+195999111:meeting, ideas, exchanging, people
+196002186:review, reviews, feedback, journals, software, peer, engineering, research, quality, researchers
+196009614:welcoming, community, industry
+196016981:funding, keeps, coming
+196020447:icse, research, authors, invested, career, concept, feedback, surprised, pc, think
+196020717:development, quality, requirements, metrics, robust, methods, repeatable, understanding, shared
+196021633:collaboration, researchers, openness, exchange, locations, constructive, various, general, fields
+196022336:commitment, reliable, support, reviews, work, improve, terms, help
+196022630:research, aspects, insights, topics, impact, literature, reviews, quality, investigate, colleagues
+196028807:community, ego, friendly, relatively, open, big, aren
+196030130:engineering, communities, researchers, community, interdisciplinary, software, programming, research, welcoming, security
+196032564:workshops, diverse, people, bring, work, large
+196038592:conferences, journals, reviewers, meeting, review, discussions, collaborating, sessions, paper, presentation
+196044669:conferences, engineering, community, software, discussions, researchers, research, professionals, share, create
+196051220:practicality, research
+196051510:research, methodological, workflow, clear, rigor, strong
+196053996:reviews, icse, quality, conferences, ml, tier, generally, lacking, better, emphasis
+196057759:mutation, repair, bugs, tools, resolve, automatic, apr, operators, number, significant
+196061190:community, larger, comparison, ago, years, 10
+196061195:developer, engineering, improving, llms, software, efficiency, improve, intelligent, lots, work
+196064814:interdisciplinary, scientific, reproducibility, openness, venues, concerns, tier, rigor, growing, work
+196065027:empirical, research, engineering, software, driven
+196065742:niche, journals, conferences, publishing, venues, quality, impact, variety, topic, high
+196065978:publication, venues, lobby, lots, huge
+196067948:communities, peers, community, researchers, research, discussions, openness, senior, survey, junior
+196068841:github, research, data, lot, quality, provides, high
+196069944:practices, empirical, techniques, studies, reproducibility, science, practice, effective, promotes, open
+196070836:repositories, researchers, software, research, programming, developer, se, ai, replication, ase
+196071446:initiatives, community, methods, standards, transparency, empirical, science, push, better, pretty
+196071861:empirical, scientific, experimental, software, results, engineering, hypothesis, practical, papers, formalism
+196071974:community, kindness, belong, peers, supportive, disciplines, joined, feeling, felt, networking
+196072100:dissemination, research, community, established, consolidated, mechanisms, really
+196073155:events, collaborations, community, ideas, discussing, welcoming, students, concepts, trends, se
+196073315:networking, point
+196073766:conferences, researchers, collaboration, interdisciplinary, se, publication, icse, research, tools, initiatives
+196073866:friendly, community, nice
+196075893:reproducible, packages, software
+196077577:reproducibility, artifact, replication, artifacts, openness, software, shared, sharing, benchmarks, research
+196078058:openness, research, gatekeeping, topic, pursuing, new, formats, quality, improve, processes
+196080836:publications, venues, scientific, access, variety
+196081761:researchers, research, collaborate, widely, se, efficiently, view, point
+196082256:communication, strong
+196088882:researchers, reviewers, feedback, review, studies, contributions, diversity, community, response, workshops
+196098374:automation, tools, development, design, ideas, se, artificial, intelligence, application, practices
+196098713:openness, subareas, variety, wide
+196111250:diversity, communities, topics, sub, great
+196113970:methodological, pluralism, engineering, theory, se, implementation, embraces, empirical, community, pure
+196114854:architecture, ai, topic, software, trend, quality, se, popular, progress, increasing
+196119370:community, collaborative, networking, ideas, helpful, open, amazing
+196141210:conferences, inclusiveness, presentation, social, events, networking, quality
+196144420:community, welcoming, colleagues, collaborate, effort, helping, share, improve, ideas, general
+196173071:openness, collaboration, software, sharing, researchers, tools, research, benchmarks, reproducibility, open
+196176584:journals, industry, publication, conferences, community, established, structure, models, field, open
+196180766:icse, journals
+196181126:maturity, research, methodological, dissemination, growing
+196183707:conferences, organization
+196185078:development, software, methods, approaches, empirical, traditional, data, good
+196190226:community, research, software, development, improve, tool, quality, architecture, target, factors
+196196304:community, collaborative, mentoring, openness, trust, software, interdisciplinary, students, sharing, fostering
+196205708:interdisciplinary, innovation, openness, quantitative, sector, data, culture, driven
+196208899:contributions, topics, applicability, attention, practical, variety, large
+196219883:studies, research, conferences, awards, reliable, years, rigorous, paper, empirical, community
+196247974:dissemination, ideas, positive, results
+196248189:funding, exchange, research, open, persons, lot, possibility, ok, great
+196248869:observational, studies
+196258379:projects, industry, community, funded, interaction, problems, reasons, relevant, works
+196285573:software, research, engineering, open, source, convenient, work, tends
+196289788:papers, production
+196289904:research, breath, international, depth, truly
+196290588:exploration, collaboration, discussions, cross, welcomed, area, open, lot
+196290621:inclusive, tools, llms, community, adopt, new, eagerness
+196290770:thriving, community
+196290840:conferences, industry, papers, practices, attendance, impact, high, volume
+196291119:icse, community, home, feels, strong, sense, like
+196291712:security, developing, mind
+196293762:sustainability, discussions, conferences, journal, issues, places, track, attention, special, specific
+196310506:artifacts, authors, research, reviewers, data, source, code, require, results, raw
+196352856:empirical, methods, improved, lot
+196368894:ideas, past, exploring, combinations
+196372137:community, inclusive, members, open, new
+196380886:research, artifacts, community, methodology, bar, friendly, high, rigor, distribution, overall
+196381072:automation, llms, development, program, tasks, code, repair, generation, rapid, like
+196389340:methods, novel, producing
+196391274:research, se, researchers, innovation, reviews, ai, methodology, questions, security, hci
+196426419:collaborations, researchers, research, community, se, networking, meet, benefits, interests, opportunity
+196442734:podcast, radio, se, like
+196458646:venues, community, social, publish, building, meet, variety
+196499076:collaborative, community, friendly
+196573064:revision, publishers, studies, effort, process, experts, considered, time, community, way
+196579032:quality, replication, reviews, peer, paper, rigorous, availability, assurance, badge, packages
+196642532:welcoming, community, conversation, engineering, engaging, talk, researchers, software, inspired, privilege

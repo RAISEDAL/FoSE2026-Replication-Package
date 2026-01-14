@@ -1,0 +1,234 @@
+192065107:inclusive, participation, sustainable, remote, vendetta, personal, insofar, lousy
+192082119:reviewing, reviews, ieee, fraud, quality, papers, process, resubmitted, cases, dealt
+192094513:annotation, nlp, research, llm, technology, technologies, papers, supervision, paper, hitl
+192101946:incentives, researchers, peer, icse, challenges, oracle, reviewing, se, deadlines, ai
+192109802:peer, essays, review, research, discussions, publication, papers, minorities, volunteer, appraising
+192114934:publish, paper, oriented, quality, approach, lately, fast, hoing, feels, hinder
+192120549:practitioners, community, gap, bridge, needs
+192134556:reviewers, peer, review, flaws, imperfections, reject, argue, research, papers, academia
+192143242:reviewers, committees, committee, reviewer, conferences, review, conference, newcomer, icse, members
+192144834:unpaid, review, peer
+192150199:tenured, researcher, academic, research, icse, university, se, rich, departments, elite
+192154506:researchers, publishers, research, bono, groups, names, work, established, favor, pro
+192160759:papers, authors, flooding, written
+192161434:journals, bias, journal, papers, diversity, review, conferences, reviews, group, discourages
+192161829:publishers, publishing, ieee, editors, papers, organizations, conferences, publish, icse, reviewers
+192164439:conferences, publishing, publish, researchers, papers, submit, funding, pressure, research, meet
+192178725:llms, technology, engineering, software, study, people, ignore, use, aspects, usually
+192201982:review, biased, peer, experienced, seen, getting
+192205474:presentations, conferences, dissemination, communication, talks, audiences, papers, knowledge, researchers, incentives
+192249436:reviewing, evaluation, revisions, critical, negative, trends, software, engineering, science, conferences
+192250097:reviewing, journals, reviewers, publishers, conferences, publishing, replication, revisions, policy, workload
+192288951:reviewers, scientific, scholars, ignorance, paper, publish, extensively, lack, senior, trivial
+192295956:intergenerational, opportunities, generation, education, participate, transition, financially, research, professors, students
+192305887:industry, research, personnel, resources, community, ahead, bigger
+192308195:conferences, publishing, research, practice, elitist, pressure, gap
+192311611:research, nlp, chatgpt, novelty, technology, community, reviewers, annotation, substances, se
+192321645:presentations, conferences, simultaneously, sessions, schedule, concentrating, parallel, attendees, scheduled, activities
+192349636:conferences, attend, attending, overwhelmed, events, reviewing, logistics, costs, health, concerns
+192405469:reviewers, conference, trips, expensive, lack
+192475387:think, particular
+192495535:journals, publish, research, waiting, se, problem, long, time, necessarily, irrelevant
+192504801:know, don
+192587847:interdisciplinary, increasingly, stakeholders, community, disciplines, trend, outsider, funding, standards, science
+192587927:reviewers, expertise, icse, ai, collaboration, ideas, discussions, reviewer, influence, welcoming
+192588908:workshops, research, conferences, studies, se, papers, practitioners, community, theoretical, experiences
+192590520:publish, journals, events, place, topics, topic, community, specific, big, small
+192590573:software, journals, engineering, publish, publication, bias, copyrighted, communities, promoting, biased
+192591458:conferences, conference, travel, researchers, publishing, participate, research, papers, countries, se
+192593186:forum, researchers, se, discussion, sharing, topic, knowledge, methods, ideas, exchange
+192593289:icse, review, papers, collusion, fse, paper, conferences, networks, issta, broken
+192597855:practitioners, researchers, listen
+192604904:shibboleths, research, statistical, publishing, examples, standards, necessary, improperly, certain, field
+192614907:welcoming, connections, community, new, people, integrating, mean
+192626887:papers, tools, application, value, given
+192647816:submissions, papers, conference, pcs, review, serve, cap, days
+192676762:advances, practice, influence, lack, fundamental
+192718035:interdisciplinary, conferences, research, broad, review, paper, reviewed, experts, communication, discuss
+192723543:agenda, conferences, woke, political, pushing, usually
+192723628:software, engineering, research, mainstream, practitioners, topics, community, influencing, hot, outside
+192731005:postdoc, emails, professors, prospect, positions, responsive, helping, asking
+192732325:reviewing, reviewers, collaboration, review, conferences, conference, organizations, organization, ieee, process
+192757432:management, software, project
+192758693:replication, publication, journals, consolidating, knowledge, effort, conferences, new, rigour, better
+192783853:humour, software, open, source
+192867648:journals, studies, llms, review, se, energy, conference, resources, environmental, global
+193079935:
+193091655:reviewers, critical, papers, overly, kill, experience, important, limited
+193204305:publications, conferences, journals, publish, csranking, publication, students, conference, academic, fragmented
+193287505:rankings, conferences, venues, icse, icsme, cs, fse, researchers, issta, ase
+193311042:review, quality, peer, random, quantity, feels
+193429795:empirical, methods, standards, shaky
+193659793:participation, language, icse, english, brazil, representing, asian, white, facilitate, going
+193668599:llms, researchers, conferences, research, publish, cliques, lack, papers, random, reviews
+193757741:research, researchers, industry, partnerships, tech, studies, industrial, developer, practical, tools
+193795120:sdlc, architecture, software, integrated, privacy, isolation, requirements, uncertain, security, modelling
+193992867:icse, overworking, deadline, vacations, summer, bummer, trend, problem, general, disparity
+194004592:research, irrelevant, practice
+194032046:review, openness, peer, ideas, loads, new, relatively, variation, low, getting
+194220564:communities, practices, toxic, reflective, behaviours, groups, leaders, encounters, africa, biases
+194263317:topics, standards, fashionable, research, published, quality, particular, low, difficult, pick
+194327041:incentives, reviewers, reviewing, ai, papers, review, publication, overloaded, pressure, resubmissions
+194594580:journals, papers, reviewers, reviews, literature, articles, review, magazine, science, ideas
+194672051:presentations, conferences, conversations, networking, shorter, opportunities, continue, getting, establish
+194711911:icse, conferences, costs, like, high
+194839373:hardware, software, communities, mechanical, constraints, requirements, separation, time, close, real
+195155159:research, society, solutions, applicability, work, effectively
+195195255:inclusiveness, researchers, work, lack
+195289566:software, technologies, engineering, projects, technology, substance, ai, fragmented, cybersecurity, fragmentation
+195352332:llms, development, software, activity, scene, focused, recently, especially
+195378456:reviewing, review, reviewers, reviews, cfp, ai, reviewed, papers, short, paper
+195394675:funding, industry, poor, ai, reproducability, lack, improvement, conferences, countries, papers
+195490977:reviews, miss, hit
+195756280:systematic, practitioners, research, studies, guidelines, evidence, mapping, recommendations, literature, outcomes
+195756655:codex, copilot, paper, novelty, industry, idea, eliminate, hand, way, half
+195771332:conferences, conference, publication, deadlines, conducted, research, broken, industry, feedback, results
+195772359:problems, picking, work, interesting
+195772459:reviewing, rebuttal, reviewers, reviews, review, ai, subjective, community, compared, useless
+195774571:conferences, ai, se, topics, papers, similar, focus, based, example, guess
+195775809:gpu, llms, researchers, computational, research, experiments, studies, companies, se, reproducibility
+195782001:reviewers, journals, hard
+195789338:researchers, research, reviewers, industry, study, reviews, papers, icse, discussions, experiments
+195791296:experimental, papers, implementation, published, questionable, details, setup
+195802584:rebuttals, conferences, conference, reviewers, review, reject, rejected, journals, author, broken
+195811076:ai, journals, papers, ideas, studies, research, publications, conferences, experiments, deadlines
+195815106:review, publication, time, long, process, feels
+195816320:reviewing, editors, editorship, reject, editor, rejection, review, journal, lack, rejected
+195830557:journals, publications, se, publication, platform, ieee, platforms, kpis, conferences, apcs
+195830783:reviewers, randomness, review, reviews, different, paper, process, does, just, work
+195832864:implications, practical, analysis, practice, works
+195838608:publication, reviews, reviewer, innovation, papers, quality, published, promotions, progress, career
+195844080:know
+195844264:advanced, techniques, techs, develop, performance, latest, quickly, new, attitude, catch
+195845170:msr, contributions, ml, techniques, data, mining, foundational
+195846519:conferences, review, longer, time
+195849456:reviewers, editorial, journal, review, peer, jobs, boring, authors, unfair, job
+195851018:conferences, acm, ieee, conference, organise, organisation, management, inclusiveness, participation, apcs
+195852160:funding, review, papers, peer
+195852355:papers, flaws, paper, issues, writing, quality, problem, questions, easier, obvious
+195853105:encryption
+195853386:icse, conferences, conference, se, research, ase, fse, innovation, mitigating, diversity
+195854285:reviewing, bias, opaque
+195855714:conferences, submission, llms, papers, ai, researcher, areas, qualitative, review, process
+195856398:versions, compatibility, version, older, software, issues
+195859579:reviewing, papers, paper, experiments, process, phd, selecting, years, systems, students
+195860086:reviewers, review, editors, quality, submissions, conference, journal, qualified, pc, chairs
+195860877:industry, research, rigour, competing, valid, ramp, slow, similar, leading, looks
+195861298:bidding, reviewers, blind, assigned, process, automatically
+195863074:mentor, autism, adhd, colleagues, papers, follow, finding, work, need, people
+195868073:publishers, publishing, incentives, conferences, papers, published, academics, reality, practitioner, se
+195869297:reviewers, conferences, external, icse, conference, expertise, journal, publication, se, software
+195892827:topics, conferences, papers, insights, flagship, contributed, emphasis, representation, number, instead
+195906537:review, process
+195910267:researchers, industry, research, academia, gatekeepers, practitioners, se, experience, choose, lots
+195938395:boring, ai, experiments, ideas, papers, progress, groups, expectations, llm, incremental
+195942369:
+195949566:reviewers, review, reviews, conferences, meetings, pcs, discussions, peer, reject, publications
+195953547:researched, useful, practice, major, used, disjoint
+195956279:deadlines, review, conference, papers, randomness, technical, quality, control, track, dying
+195956629:conferences, hci, club, se, boys, hard, far, like, accepted, open
+195960605:datasets, dataset, research, data, audiences, visualize, se, explore, authors, presented
+195962364:engineers, software, break, real, work, actual, hard, representative, world
+195968983:reviewing, reviewer, reviews, preferences, decision, constructive, thoughtful, personal, process, influenced
+195974971:diversity, research, secrecy, discuss, conferences, hide, topics, paranoia, conversation, participate
+195984732:novelty, reviewers, reviewing, evaluation, fatigue, frustration, lack, overemphasis, diversity, impact
+195990576:icse, paper, organization, attending, presentation, logistical, scientific, sessions, process, selection
+195992490:reviewing, industrial, se, discipline, endless, relevance, lack, applied, especially
+195999111:deadlines, conferences, research, insights, biomedical, publish, findings, science, icse, dates
+196002186:feedback, submissions, submission, reviews, improving, quality, conference, constructive, process, helpful
+196009614:communication, world, outside
+196010414:silo, working
+196016981:relevance, boring
+196020447:conferences, conference, publishing, publication, networking, meets, community, meet, science, published
+196020717:research, researchers, software, engineering, interests, fragmented, review, disparate, wide, recognising
+196021633:gai, writing, paper, review, use
+196022336:icse, communities, se, community, core, conferences, trends, conference, topics, ase
+196022630:research, industrial, impactful, publish, community, quality, tended, higher, practice, pace
+196028807:submissions, decreasing, quality, dramatically, growing
+196030130:tools, tool, developers, software, automated, development, reports, effectiveness, artifact, driven
+196032564:icse, application, software, interdisciplinary, evaluation, stellar, research, engineering, studies, narrowing
+196038592:students, academia, research, professors, papers, publishing, reviews, engineering, paper, tools
+196044669:reviewers, reviews, software, review, feedback, journals, peer, engineering, research, challenges
+196051220:reviewing, reviewers, reviewer, interdisciplinary, reviews, papers, paper, quality, field, empirical
+196051510:diversity, gender, women, inclusion, belonging, participate, studies, exclusion, discourse, opportunities
+196053996:ai, reviewers, conferences, background, specifically, review, se, writing, needs, especially
+196057759:testing, test, case, generation
+196061190:influential, fails, techniques, work, produce, new
+196061195:se, fileds, fields, nlp, community, impact, limited, ai, compared
+196064814:review, inconsistent, slow, process
+196065027:relevance, journals, undervalued, practical, valued, conferences, tracks, work, class, citizens
+196065742:conferences, niche, icse, research, studies, articles, industry, discussion, papers, theory
+196065978:heuristics, systematic, software, empirical, engineering, tendency, solutions, selection, bias, insufficient
+196067582:research, studies, sciences, replications, industrial, improving, study, colleagues, comparing, improvement
+196067948:journals, publishing, journal, conferences, deadlines, reviews, review, researchers, conference, analyses
+196069944:publish, publishable, research, foundational, culture, venues, tier, incremental, discouraging, pressure
+196070836:community, research, se, publication, projects, industry, diversity, science, publish, diverse
+196071446:conferences, industry, journals, conference, se, participants, venue, publication, papers, practitioners
+196071861:devops, naive, academia, intrinsic, programming, industry, se, architecture, design, software
+196071974:publishers, public, editor, conference, ieee, author, money, participation, expenses, access
+196072100:software, engineering, contributions, fashion, intelligence, artificial, techniques, clear, value, current
+196072448:replicability, ai
+196073155:feedback, students, improvements, papers, poster, writing, constructive, ase, suggest, work
+196073315:se, conferences, researchers, industry, research, productivity, scientific, publishers, publication, productive
+196073766:publishers, publishing, fees, incentives, costs, conferences, funding, cost, publication, publish
+196073866:reviewing, reviewers, conferences, testing, research, random, software, community, practices, communities
+196075893:programming, bots, engineering, software, se, community, research, little, public, think
+196077577:reviewers, review, innovation, evaluations, unconventional, methodologies, biased, discourage, paradigms, framing
+196078058:discussion, reviewing, researchers, metrics, evaluating, usefulness, engineering, relevance, reviews, objective
+196080836:publication, quality, reputable, venues, challenging, increasingly, saturated, field, outlets, distinguishing
+196081761:doc, se, urgent, post, trap, problem, exclusive, course, believe
+196082256:communities, broader, promotion, weak, little, good, works
+196088882:conferences, attending, chile, students, grants, participation, applications, travel, volunteer, student
+196091544:practice, far
+196098374:ontologies, semantics, formal, project, insufficient, methods, artificial, approach, intelligence, non
+196098713:debugging, software, engineering, problems, requirements, ides, papers, visualization, problem, concerns
+196111250:review, qualities, declined, recent, past, drastically
+196113970:devops, silos, se, systems, venues, distributed, formal, requirements, methods, treat
+196114854:aspects, topic, formal, expert, popular, maybe, guess
+196119370:community, academia, industry, bias, research, problematic, norms, concerns, relationships, communications
+196141210:reviewing, review, reviews, attendance, papers, submission, session, notification, quality, time
+196144420:publishing, papers, topics, topic, research, revisit, future, platforms, reproducibility, focus
+196173071:reproducibility, researchers, toolchains, software, documentation, research, findings, newcomers, empirical, scientific
+196176584:studies, research, study, lack, reviews, phenomena, theory, literature, hype, superficial
+196180766:interdisciplinarity, little
+196181126:forums, research, participate, industry, funding, connecting, invitation, circles, academic, practice
+196183707:dissemination, research, society
+196185078:innovation, approaches, development, creative, flexible, successful, good, hard
+196190226:software, academia, games, researchers, betting, tool, ui, techniques, proposes, design
+196196304:journals, publication, researchers, openness, studies, advances, reviews, validity, acceptance, review
+196205708:reproducibility, research, branches, welcoming, challenge, fully
+196208899:researchers, conferences, advancements, engineering, engineers, software, social, papers, cumbersome, review
+196212037:ai, research, llm, reliance
+196219883:architecture, icse, conferences, engineering, ase, papers, fse, fairness, requirements, reviewers
+196243185:conferences, engineering, talks, research, prompt, short, making, work, superficial
+196247974:consolidation, replication, dissemination, ideas, results, solutions, negative
+196248189:reviewing, reviewers, reviews, se, research, innovations, innovator, discussions, random, acceptance
+196248764:reproducibility, work, lack
+196248869:transfer, industry
+196258379:interdisciplinary, collaboration, woul, like
+196281159:review, quality, process
+196286246:reproducibility, review, publish, replicability, breakthrough, submission, quality, studies, inflation, empirical
+196289788:sota, improvement, real
+196289904:conservatism, ai, contributions, ideas, book, marginally, incremental, privileged, paper, contamination
+196290588:reviewers, evaluation, criticize, exploration, architecture, scalability, software, cross, lacking, area
+196290621:research, practitioners, industry, convincing, relevant
+196290770:eu, submission, quality, submit, engineering, increase, research, software, trend, projects
+196290840:industry, research, engineering, conferences, software, papers, practices, non, sustainable, international
+196291119:conferences, icse, ase, fse, fragmentation, fall, summer, sisters, different, feel
+196291712:security, design, software, considering
+196293762:software, ethics, engineering, ethic, socially, design, humanity, applications, discussion, community
+196310506:artifact, reviewers, experimental, reviewer, evaluator, evaluation, tool, tools, evaluate, review
+196352856:research, index, race, paper, publish, art, just, really, advance, performed
+196368894:repositories, software, implementations, reproducibility, tools, research, engineering, implementation, industrial, reuse
+196372137:reviewing, review, ai, research, quality, lack, papers, knowledge, use, thinking
+196380886:novelty, inventing, encourages, ai, publishing, impact, engineering, applicability, scalability, aversion
+196381072:scenarios, tasks, deep, complex, understanding
+196389340:methods, impactful, practical, producing
+196391274:incentive, defects4j, ml4code, niche, conference, novelty, researchers, defect, collaboration, diversity
+196426419:presentations, presentation, conferences, paper, ideas, effective, exchange, short, really, aren
+196458646:scope, topics, factors, unbalanced, core, published, security, perception, non, chi
+196499076:ai, research, topics, diversion, themes, concentration, current
+196573064:academia, industry, studies, software, companies, publishing, integration, effort, barrier, focus
+196579032:impacts, lack, industry, ai, scalability, challenges, areas, balancing, practical, public
+196591057:review, publishing, papers, overwhelming, process, focus, quantity, large, feel, somewhat
+196642532:community, reviewers, service, conferences, distributed, review, travel, publishing, traveling, inclusive
