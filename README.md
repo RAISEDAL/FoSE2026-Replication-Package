@@ -8,8 +8,6 @@ This repository contains the replication package and supporting artifacts for th
 
 The goal of this repository is to support transparency, reproducibility, and reuse by providing all data, analysis artifacts, and supporting materials required to reproduce the study’s findings.
 
----
-
 ## Repository Structure
 
 The repository consists of the following key components:
@@ -18,8 +16,6 @@ The repository consists of the following key components:
 * **DataExplorer.ipynb** – Exploratory data analysis and dataset inspection.
 * **RQ1.ipynb** – Analysis for Research Question 1.
 * **data/** – All datasets, prompts, keyword lists, and annotated qualitative artifacts used in the study.
-
----
 
 ## Replication Instructions
 
@@ -31,8 +27,6 @@ To reproduce the results reported in the paper:
 4. Compare the generated outputs with the findings reported in the paper.
 
 The notebooks are designed to be largely self-contained and include inline documentation where necessary.
-
----
 
 ## Requirements
 
